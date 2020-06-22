@@ -7,7 +7,6 @@ marion berry
 cantaloupe
 rambutan
 strawberry
-cucumber
 apple
 damson
 gooseberry
@@ -19,7 +18,6 @@ goji berry
 western raspberry
 grapefruit
 miracle fruit
-pepper
 clementine
 melon
 ugli fruit
@@ -27,7 +25,6 @@ quince
 elderberry
 blackberry
 bilberry
-avocado
 watermelon
 boysenberry
 lemon
@@ -61,19 +58,16 @@ loquat
 honeydew
 mandarine
 apricot
-chili pepper
 jujube
 jambul
 papaya
 bartlett pear
 purple mangosteen
-bell pepper
 tomato
 blood orange
 cranberry
 cherimoya
 blackcurrant
-nut
 eggplant
 feijoa
 jackfruit

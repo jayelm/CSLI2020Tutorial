@@ -32,7 +32,6 @@ watermelon
 boysenberry
 lemon
 pineapple
-tamarillo
 date
 coconut
 star fruit
@@ -57,7 +56,6 @@ mango
 honeydew
 pomelo
 pomegranate
-loquat
 honeydew
 mandarine
 apricot
